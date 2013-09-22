@@ -1,0 +1,26 @@
+/*
+Theme Name: BLM-Basic Child Theme (EMD Web 3)
+Theme URI: http://localhost:8888/web3/wptestsite/
+Description: Your theme description goes here
+Author: Priscilla Chan
+Author URI: http://www.yourdomainname.com
+Template: BasicWPTheme
+Version: 0.1
+*/
+
+/*testing*/
+
+@import url("../BasicWPTheme/style.css");
+
+body {
+	background: url('../../../assets/img/bg.gif');
+	font-family: Verdana, Helvetica, sans serif;
+}
+
+#logo {
+	background:url('../../../assets/img/logo.png') no-repeat;
+	position:absolute;
+	top:50px;
+	left:40px;
+
+}
