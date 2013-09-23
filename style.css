@@ -32,6 +32,11 @@ body {
 	width:890px;
 }
 
+#wrap {
+	background: #FFF;
+	width: 960px;
+}
+
 #top-nav {
 	position:absolute;
 	background-color: transparent;
@@ -97,7 +102,14 @@ h4 {
 	line-height: 20px;
 }
 
-
+footer {
+    text-align: right;
+}
+footer p{
+    color:#99619F;
+    left: 50px;
+    letter-spacing: 3px;
+}
 
 
 
